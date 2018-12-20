@@ -19,15 +19,15 @@ This course will help you resolve these difficulties. You will start by explorin
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Basic knowledge of python is needed
+<LI>Basic knowledge of python is needed
 ### Technical Requirements
 This course has the following software requirements:<br/>
-
-Operating system: Windows, Mac or Linux
-Browser: Any modern browser
-PyCharm or any other code editor like Atom, Sublime, etc.
-AWS account(Free tier or above)
-Python 3.x
+<UL>
+<LI>Operating system: Windows, Mac or Linux
+<LI>Browser: Any modern browser
+<LI>PyCharm or any other code editor like Atom, Sublime, etc.
+<LI>AWS account(Free tier or above)
+<LI>Python 3.x
 
 ## Related Products
 * [Practical Deep Learning with Keras and Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/practical-deep-learning-keras-and-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781838554729)
